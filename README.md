@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### E-MAIL: payload@kakao.com
-### BLOG: https://ggn0.tistory.com/
+## ✉️ E-MAIL: payload@kakao.com
+## 🏠 BLOG: https://ggn0.tistory.com/
 
 <!--
 **artists2/artists2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
